@@ -1,0 +1,24 @@
+#mainHeader{
+	text-align: center;
+}
+
+form {
+	padding-bottom: 10px;
+}
+
+.directions {
+	padding: 12px 09px;
+}
+
+/* Aligning the text */
+.table {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+#errorMessage {
+	text-align: center;
+}
